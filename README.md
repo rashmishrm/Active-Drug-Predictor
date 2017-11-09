@@ -13,3 +13,6 @@ Since the dataset is imbalanced the scoring function will be the F1-score instea
 1. Used SMOTE over sampler for imbalanced data.
 2. Used Truncated SVD for reducing dimensions.
 3. Used Decision tree classifier with weights attached to classes.
+
+
+### Accuracy: 75% on test data. 3rd rank.
